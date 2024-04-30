@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manideep 
 - 👀 I’m interested in ...internet of things 
-- 🌱 I’m currently learning ...Btech Computer science and engeeniring and iot 
+- 🌱 I’m currently pursuing my ...Btech Computer science and engeeniring and iot 
 - 💞️ I’m looking to collaborate on ...app developement
 - 📫 How to reach me ...github
 - 😄 Pronouns: .. Manideep 
